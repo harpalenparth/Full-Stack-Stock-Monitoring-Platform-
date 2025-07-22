@@ -1,1 +1,1 @@
-# Full-Stack-Stock-Monitoring-Platform-
+# Full-Stack-Stock-Trading-Platform-
